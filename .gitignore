@@ -25,3 +25,7 @@
 ## Plugin-specific files:
 .gitignore
 .idea/
+
+## Mobirise-specific files:
+history/
+project.mobirise
