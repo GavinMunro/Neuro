@@ -4,6 +4,9 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Matt        Subject expert
+    Snjez       Visual design
+    Gavin       Web developer
 
 # THANKS
 
@@ -12,4 +15,5 @@
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Apache Server Configs, jQuery, Modernizr, Normalize.css,
+    Mobirise: Bootstrap, Formoid, Jarallax, Tether, SmoothScroll
