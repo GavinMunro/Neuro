@@ -29,3 +29,6 @@
 ## Mobirise-specific files:
 history/
 project.mobirise
+
+## These are _potential_ image resources only
+/assets_dev/Images/
